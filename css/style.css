@@ -1,0 +1,108 @@
+.container
+{
+    background-color: rgb(255, 255, 255);
+    font-family: 'OpenSans';
+    width: 1450px;
+    margin: 0 auto;
+}
+.header
+{   padding-top: 29px;
+    height: 500px;
+    background-color: rgb(246, 242, 242);
+}
+nav
+{    background-color: black;
+    color: white;
+    margin-left: 165px;
+    margin-right: 165px;
+    height: 68px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.home
+{    color: white;
+    text-decoration: none;
+    background-color: #ff3f40;
+    left: 522px;
+    top: 29px;
+    width: 90px;
+    height: 68px;
+    display: inline-block;
+}
+.portfolio, .about-us, .contact
+{    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 54px;
+}
+.about{
+    text-align: left;
+    margin-left: 165px;
+}
+h1
+{
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+
+}
+.about-firm
+{
+    Font-size: 14px;
+    font-weight: lighter;
+    color: grey;
+    letter-spacing: normal;
+    line-height: 160%;
+
+}
+.button
+{
+    background-color: #ff3f40;
+    text-align: left;
+    margin-left: 165px;
+    margin-top: 21px;
+    Font-size: 12px;
+    font-weight: bold;
+    line-height: 1.878;
+    border-radius: 5px;
+    border:none;
+    padding:15px;
+
+}
+.push
+{
+    text-decoration: none;
+    color: white;
+}
+.video
+{
+    position: absolute;
+    left: 990px;
+    top: 145px;
+    width: 70px;
+    height: 60px;
+    z-index: 165;
+    border:none;
+}
+
+.services
+{
+    text-align: left;
+    margin-left: 165px;
+}
+h2
+{
+    font-size: 42.216px;
+    font-weight: bold;
+    line-height: 1.31;
+}
+
+
+
+
+
+
+
+
